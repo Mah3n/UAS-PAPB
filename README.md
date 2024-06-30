@@ -7,6 +7,9 @@ Flutter Project untuk Memenuhi Tugas Akhir Semester.
 2. Hardianti Ramli 21104410021
 3. Mahendra 21104410039
 
+*Catatan :
+Jalaknkan Pada Mode Mobile dengan dimensi Iphone XR untuk hasil yang lebih baik
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
