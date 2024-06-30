@@ -1,6 +1,11 @@
-# flutter_application_3
+# UAS Pengembangan Aplikasi Perangkat Bergerak
 
-A new Flutter project.
+Flutter Project untuk Memenuhi Tugas Akhir Semester.
+
+# Anggota Kelompok
+1. Putri Rochfiani 21104410006
+2. Hardianti Ramli 21104410021
+3. Mahendra 21104410039
 
 ## Getting Started
 
