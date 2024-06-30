@@ -8,7 +8,7 @@ Flutter Project untuk Memenuhi Tugas Akhir Semester.
 3. Mahendra 21104410039
 
 *Catatan :
-Jalankan Pada Mode Mobile dengan dimensi Iphone XR untuk hasil yang lebih baik
+Jalankan Pada Mode Mobile untuk hasil yang lebih baik
 
 ## Getting Started
 
