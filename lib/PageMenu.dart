@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import 'package:flutter_application_3/HeaderPromo.dart';
 import 'package:flutter_application_3/ListMenu.dart';
 import 'package:flutter_application_3/PecelMenu.dart';
@@ -90,8 +91,7 @@ class _PageMenuState extends State<PageMenu> {
               ),
             ),
             SizedBox(height: 10),
-            SizedBox(
-              height: 430,
+            Expanded(
               child: SingleChildScrollView(
                 scrollDirection: Axis.vertical,
                 child: Column(
